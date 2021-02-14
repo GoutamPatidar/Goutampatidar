@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Goutampatidar
-
+      Hope you are fine?
+      I learned c language and c++ language..
+      
 - 👀 I’m interested in ... 
       work on some open source project.
       
@@ -7,7 +9,7 @@
      data-structure and algorithm and also working on problem solving skill.
      
 - 💞️ I’m looking to collaborate on ...
-      any project but i  had no any earlyier idea about it.
+      any project which cover my basic learning .
       
 - 📫 How to reach me ...
       by mail me at goutampatidar05@gmail.com
