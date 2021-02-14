@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Goutampatidar
-      Hope you are fine?
+- 👋 Hi, I’m @Goutampatidar<br>
+      Hope you are fine?<br>
       I learned c language and c++ language..
       
 - 👀 I’m interested in ... 
@@ -12,7 +12,7 @@
       any project which cover my basic learning .
       
 - 📫 How to reach me ...
-      by mail me at goutampatidar05@gmail.com
+      by mail me at goutampatidar05@gmail.com<br>
       linkdin- https://www.linkedin.com/in/patidar-goutam-001/
 
 <!---
