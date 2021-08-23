@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Goutampatidar<br>
       Hope you are fine?<br>
       I learned c language and c++ language..
+      I had also completed html ,css and Javascript ..
+      I had also boost my data structure and algorithms knowledge recently and working on it to...
       
 - 👀 I’m interested in ... <br>
       work on some open source project.
       
 - 🌱 I’m currently learning ... <br>
-     data-structure and algorithm and also working on problem solving skill.
+     On new technology and simultaneously woking on my problem  solving skill..
      
 - 💞️ I’m looking to collaborate on ...<br>
       any project which cover my basic learning .
