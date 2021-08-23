@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Goutampatidar<br>
       Hope you are fine?<br>
-      I learned c language and c++ language..
-      I had also completed html ,css and Javascript ..
-      I had also boost my data structure and algorithms knowledge recently and working on it to...
+      I learned c language and c++ language..<br>
+      I had also completed html ,css and Javascript ..<br>
+      I had also boost my data structure and algorithms knowledge recently and working on it to...<br>
       
 - 👀 I’m interested in ... <br>
       work on some open source project.
